@@ -1,0 +1,7 @@
+SABINO, Carlos, El proceso de investigación, Lumen-Humanitas, Bs.As., 1996..
+ANDER-EGG, Ezequiel, Técnicas de Investigación Social, Humanitas, Bs.As., 1990.
+HERNANDEZ SAMPIERI, R., FERNANDEZ COLLADO, C. y BAPTISTA LUCIO, P., Metodología de la Investigación,  McGraw Hill, México, 2000.
+TAMAYO, L. y TAMAYO, M., El proceso de la investigación científica, Limusa S.A., México, 1998
+
+http://anaylenlopez.files.wordpress.com/2011/03/trabajo-guia20rup.pdf
+Bibliografía para postgres: http://www.postgresql.org.es/
